@@ -26,5 +26,5 @@ app.listen(PORT, () => {
 });
 
 app.get("/", (req, res) => {
-    res.send(`<h1> ¡Bienvenido! 😃 Este es el servidor de la API Users de la Cohorte 7 🚀</h1>`);
+    res.send(`<h1> ¡Bienvenido! 😃 Este es el servidor de la API Users de RedJODS 🚀</h1>`);
 });
